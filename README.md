@@ -19,7 +19,7 @@
 
 https://github.com/user-attachments/assets/2e84d482-8810-4b4f-a937-52ca13802fd4
 
-高解像度の動画はこちらからご覧いただけます。
+高解像度の動画はこちらからご覧いただけます。<br>
 https://youtu.be/q2EHXChnyhk?si=dQ-ZVX1u0UC1Hn1h
 
 ## 環境
