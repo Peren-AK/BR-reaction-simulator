@@ -16,7 +16,9 @@
 - シミュレーションを開始すると、それまでのオブジェクト等は全てリセットされるので、繰り返しシミュレーションを行うことができます。
 
 ## デモ動画
-https://github.com/user-attachments/assets/2f712dfa-7f7c-4721-a86c-6c280963c81b
+
+https://github.com/user-attachments/assets/2e84d482-8810-4b4f-a937-52ca13802fd4
+
 高解像度の動画はこちらからご覧いただけます。
 https://youtu.be/q2EHXChnyhk?si=dQ-ZVX1u0UC1Hn1h
 
